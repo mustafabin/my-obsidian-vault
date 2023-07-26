@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "830d105ccd0629e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "08d5c22dca186970",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1927214c8e0c5397",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-07-26.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b529851aae30610a",
+    "type": "split",
+    "children": [
+      {
+        "id": "384a80e53530106f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54fd1e4b4ae0cc1b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "54d1736f5eca890c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a18bc5b62d12e44b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ef621081cedb1554",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a1777b2ea159cf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb1f1801a8f28666",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "df9d3f1790c07db1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023-07-26.md"
+              }
+            }
+          },
+          {
+            "id": "405a7fc9bbcb5395",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a95525bcdd235365",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "54fd1e4b4ae0cc1b",
+  "lastOpenFiles": [
+    "Daily tracker.md",
+    "2023-07-26.md",
+    "dailys/2023-07-26.md",
+    "Untitled.canvas",
+    "dailys/Untitled.md",
+    "Untitled.md",
+    "dailys",
+    "Untitled 1.md"
+  ]
+}
